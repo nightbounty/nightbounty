@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Matthew and I'm a computer science student from Canada
+My name is Kevin and I'm a computer science student from Canada
 <!--
 **nightbounty/nightbounty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
