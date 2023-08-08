@@ -39,16 +39,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightbounty&layout=compact&theme=tokyonight)
 -->
 
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,express,mongodb,mysql,html,css,vscode,figma,git" />
-</div>
-
-<hr/>
-
 <div align="center">
   
   <br>
@@ -60,4 +51,13 @@ Here are some ideas to get you started:
   
   <br/><br/><br/>
 </div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,express,mongodb,mysql,html,css,vscode,figma,git" />
+</div>
+
+
 
