@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 </h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<br/>
-<div align=center>
-
-
 
 </div>
 <hr/>
