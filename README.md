@@ -20,22 +20,30 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate software engineer</h3>
 
 <br/>
+<div align=center>
 
 
 
-
-
-
+</div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=nightbounty&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-nightbounty.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width=390 src="https://streak-stats.demolab.com?user=nightbounty&theme=dark&sideNums=42A049&currStreakLabel=14A0EB&currStreakNum=42A049&sideLabels=14A0EB" alt="streak stats"/>
+  <img width=355 src="https://github-readme-stats.vercel.app/api?username=nightbounty&theme=blue-green" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-nightbounty.vercel.app/api/top-langs/?username=nightbounty&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightbounty&layout=compact&theme=tokyonight" alt="top langs" />
+    
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=nightbounty&theme=dark&sideNums=42A049&currStreakLabel=14A0EB&currStreakNum=42A049&sideLabels=14A0EB)](https://git.io/streak-stats)
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightbounty&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightbounty&layout=compact&theme=tokyonight)
+-->
+
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -46,7 +54,7 @@ Here are some ideas to get you started:
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  
   <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightbounty/nightbounty/output/github-contribution-grid-snake-dark.svg">
