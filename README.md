@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center>
-<img width=390 src="https://streak-stats.demolab.com?user=nightbounty&theme=dark&sideNums=42A049&currStreakLabel=14A0EB&currStreakNum=42A049&sideLabels=14A0EB" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=nightbounty&theme=dark&sideNums=42A049&currStreakLabel=14A0EB&currStreakNum=42A049&sideLabels=14A0EB" alt="streak stats"/>
+    
   <img width=355 src="https://github-readme-stats.vercel.app/api?username=nightbounty&theme=blue-green" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightbounty&layout=compact&theme=tokyonight" alt="top langs" />
